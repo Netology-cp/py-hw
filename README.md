@@ -14,4 +14,5 @@
 ## Работа с внешним API.
 8. [Работа с библиотекой requests, http-запросы](9.http.requests/)  
 
-[Файлы для домашних заданий](https://github.com/netology-code/py-homework-basic-files)
+## Диплом.
+
